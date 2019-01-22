@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Borys Streletskyy](https://up.htmlacademy.ru/htmlcss/24/user/969241).
-* Наставник: [Дмитрий Рябинин].
+* Наставник: [Дмитрий Рябинин](https://up.htmlacademy.ru/htmlcss/24/user/63289).
 
 ---
 
